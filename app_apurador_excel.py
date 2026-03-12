@@ -539,7 +539,7 @@ def main():
     
     with col_help3:
         from pathlib import Path
-        template_path = Path(__file__).parent / "SIMULADOR_COMPRA AGORA.xlsx"
+        template_path = Path(__file__).parent / "SIMULADOR_COMPRA_AGORA.xlsx"
         if template_path.exists():
             with open(template_path, "rb") as file:
                 template_data = file.read()

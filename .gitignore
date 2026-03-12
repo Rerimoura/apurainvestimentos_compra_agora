@@ -43,7 +43,7 @@ Thumbs.db
 *.xlsx
 *.xls
 !SIMULADOR_POLIEQUIPES.xlsx
-!SIMULADOR_COMPRA AGORA.xlsx
+!SIMULADOR_COMPRA_AGORA.xlsx
 
 # PDFs de clientes (nunca versionar dados sensíveis!)
 *.pdf
